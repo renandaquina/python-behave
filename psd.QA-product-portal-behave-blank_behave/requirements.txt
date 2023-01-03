@@ -1,0 +1,8 @@
+behave
+selenium
+allure_behave
+pymysql
+requests
+xmltodict
+git+https://github.com/typhoon-hil/allure-docx.git
+context
